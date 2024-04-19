@@ -22,10 +22,6 @@ The Test Runner expects the following directory structure:
 - `tests/`: A directory containing the test cases. Each test case consists of an `input.n` file (containing the input for the test) and a corresponding `output.n` file (containing the expected output for the test).
 
 ## Usage
-First of all, compile the program:
-```
-make main
-```
 
 To run the Test Runner, use the following command:
 ```bash
