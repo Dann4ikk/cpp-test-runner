@@ -11,11 +11,11 @@ The Test Runner expects the following directory structure:
 |-- input.txt  
 |-- output.txt  
 |-- tests  
-    |-- input.01  
-    |-- output.01  
-    |-- input.02  
-    |-- output.02  
-    |-- ...  
+‎ ‎ ‎ ‎ |-- input.01  
+‎ ‎ ‎ ‎ |-- output.01  
+‎ ‎ ‎ ‎ |-- input.02  
+‎ ‎ ‎ ‎ |-- output.02  
+‎ ‎ ‎ ‎‎ |-- ...  
 
 - `main.cpp`: The C++ source file that contains the program to be tested.
 - `input.txt`: A temporary file used by the Test Runner to provide input to the program.
