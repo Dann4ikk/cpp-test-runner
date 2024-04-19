@@ -4,9 +4,8 @@ The Test Runner is a command-line tool that runs a C++ program against a set of 
 
 ## Directory Structure
 
-The Test Runner expects the following directory structure:
-(parent_directory)
-|
+The Test Runner expects the following directory structure:  
+(parent_directory)  
 |-- main.cpp  
 |-- input.txt  
 |-- output.txt  
