@@ -23,7 +23,9 @@ The Test Runner expects the following directory structure:
 
 ## Usage
 First of all, compile the program:
-
+```
+make main
+```
 
 To run the Test Runner, use the following command:
 ```bash
