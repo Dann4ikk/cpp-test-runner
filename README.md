@@ -62,7 +62,7 @@ Test 02 failed.
 ===== Summary =====
 1/2 tests passed.
 
-###The Test Runner outputs the following information for each test case:
+### The Test Runner outputs the following information for each test case:
 
 - Test number
 - Input (if the `-s` or `--show-input` flag is provided)
